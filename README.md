@@ -1,14 +1,16 @@
 # Matheus Brito
 
-Olá, Seja bem-vindo!
-
 <b>[PT-BR]</b>
 
-Eu sou formado em Economia e um entusiasta em trabalhar com dados no Mercado Financeiro.
+Olá, Seja bem-vindo!
 
-## Página em construção!
+Eu sou formado em Economia pela PUC-Rio e um entusiasta em trabalhar com dados no Mercado Financeiro.
+
+### Página em construção!
 
 Último atualização: 2023-04-09
+
+### Stats
 
 ![Matheus Brito's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuslbrito&theme=nord&show_icons=true)
 
