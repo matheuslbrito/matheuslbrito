@@ -12,6 +12,6 @@ Eu sou formado em Economia pela PUC-Rio e um entusiasta em trabalhar com dados n
 
 ### Stats
 
-![Matheus Brito's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuslbrito&theme=nord&show_icons=true)
+![Matheus Brito's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuslbrito&theme=nord&show_icons=true)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslbrito&layout=compact)
+![Matheus Brito's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslbrito&layout=compact)
